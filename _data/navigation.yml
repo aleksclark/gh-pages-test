@@ -1,0 +1,26 @@
+docs:
+  - title: Getting Started
+    children:
+      - title: "Dev Env Setup"
+        url: /docs/01-first-page/
+      - title: "Deploying"
+        url: /docs/structure/
+      - title: "Monitoring"
+        url: /docs/installation/
+
+  - title: Language Style Guides
+    children:
+      - title: "Ruby"
+        url: /docs/configuration/
+      - title: "Typescript"
+        url: /docs/navigation/
+      - title: "Golang"
+        url: /docs/ui-text/
+
+  - title: Design Patterns
+    children:
+      - title: "Something"
+        url: /docs/posts/
+      - title: "Something Else"
+        url: /docs/pages/
+

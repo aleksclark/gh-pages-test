@@ -1,10 +1,5 @@
 # gh-pages-test
 
 
-## Heading 1
-
-some text
-
-## Heading 2
-
-some more text
+* have to restart jekyll to reload defaults
+* default frontmatter set in _config.yml
